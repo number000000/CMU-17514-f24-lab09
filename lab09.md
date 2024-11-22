@@ -30,15 +30,15 @@ Homework 5 involves calling external APIs, specifically the [Google Cloud Vision
 1. Open a web browser and [sign in to the Google Cloud console](https://console.cloud.google.com) with your personal account.
 1. Select the project you just created in the box in the upper-left corner of the screen (here, the project I created is called "cmu17-214"):
 
-![lab09_project_select](images/lab09/lab09_project_select.png)
+![lab09_project_select](img/lab09/lab09_project_select.png)
 
 1. Open the context menu to the left of the "Google Cloud" logo and click the "VIEW ALL PRODUCTS" button at the bottom.
 
-![lab09_view_all_products](images/lab09/lab09_view_all_products.png)
+![lab09_view_all_products](img/lab09/lab09_view_all_products.png)
 
 1. Click the "Billing" link under "Management".
 
-![lab09_billing](images/lab09/lab09_billing.png)
+![lab09_billing](img/lab09/lab09_billing.png)
 
 1. You will get a screen that says "This project has no billing account". On this page click "Link A Billing Account".
 
